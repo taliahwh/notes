@@ -1,0 +1,7 @@
+.previewTitleHeader {
+  color: black;
+}
+
+.previewTitleHeader:hover {
+  text-decoration: underline;
+}
